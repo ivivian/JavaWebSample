@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SimpleWebApp.iml" filepath="$PROJECT_DIR$/.idea/modules/SimpleWebApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SimpleWebApp_main.iml" filepath="$PROJECT_DIR$/.idea/modules/SimpleWebApp_main.iml" group="SimpleWebApp" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SimpleWebApp_test.iml" filepath="$PROJECT_DIR$/.idea/modules/SimpleWebApp_test.iml" group="SimpleWebApp" />
+    </modules>
+  </component>
+</project>

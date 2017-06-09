@@ -1,0 +1,31 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Gradle : javastudy : SimpleWebApp-1.0-SNAPSHOT.war (exploded)">
+    <output-path>$PROJECT_DIR$/build/libs/exploded/SimpleWebApp-1.0-SNAPSHOT.war</output-path>
+    <properties id="gradle-properties">
+      <options external-project-path="$PROJECT_DIR$">
+        <manifest>TWFuaWZlc3QtVmVyc2lvbjogMS4wDQoNCg==</manifest>
+      </options>
+    </properties>
+    <root id="root">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/build/libs/exploded/SimpleWebApp-1.0-SNAPSHOT.war/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="SimpleWebApp_main/web/Web Gradle : SimpleWebApp-1.0-SNAPSHOT.war" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="SimpleWebApp_main" />
+          <element id="dir-copy" path="$PROJECT_DIR$/build/resources/main" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Gradle: javax.servlet:javax.servlet-api:3.1.0" />
+          <element id="library" level="project" name="Gradle: mysql:mysql-connector-java:5.1.40" />
+          <element id="library" level="project" name="Gradle: org.glassfish.web:javax.servlet.jsp.jstl:1.2.4" />
+          <element id="library" level="project" name="Gradle: javax.servlet.jsp.jstl:javax.servlet.jsp.jstl-api:1.2.1" />
+          <element id="library" level="project" name="Gradle: javax.servlet.jsp.jstl:jstl-api:1.2" />
+          <element id="library" level="project" name="Gradle: javax.servlet:servlet-api:2.5" />
+          <element id="library" level="project" name="Gradle: javax.servlet.jsp:jsp-api:2.1" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
